@@ -1,4 +1,4 @@
-# 👋 Johannes Gamperl · alias Rufnex – Entwickler aus Leidenschaft
+# 👋 Entwickler aus Leidenschaft
 
 Webentwickler mit Erfahrung von der ersten Codezeile bis zu modernen KI-Lösungen.  
 Technik, die funktioniert – sauber, wartbar und zukunftssicher.
@@ -8,7 +8,7 @@ Technik, die funktioniert – sauber, wartbar und zukunftssicher.
 
 ---
 
-# 👋 Johannes Gamperl · aka Rufnex – developer by passion
+# 👋 Developer by passion
 
 Web developer with a background from the early days of computing to cutting-edge AI solutions.  
 Tech that works – clean, maintainable, and built to last.
