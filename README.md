@@ -3,47 +3,43 @@
 👋 Ich entwickle **RAG- und LLM-Systeme** mit Fokus auf **lokal betreibbare, DSGVO-konforme KI-Lösungen**.  
 Langjährige Erfahrung in **Fullstack-Entwicklung, Datenbanken und IT-Consulting**, heute kombiniert mit einer klaren Spezialisierung auf moderne KI-Architekturen.
 
-<details>
-<summary><strong>🔽 Profil öffnen</strong></summary>
+---
 
 ## 🔎 Fokus: KI & moderne Systeme
-- Retrieval-Augmented Generation (RAG) mit Qdrant, Ollama, LangChain u. a.  
-- LLM-Integrationen: Prompting, Agenten, Tool-Use, Model Context Protocol (MCP)  
-- DevOps: Docker/Compose, reproducible Stacks, Monitoring  
-- Saubere Software-Architekturen: modular, testbar, skalierbar  
+[![LangChain](https://img.shields.io/badge/LangChain-RAG-green)](#) 
+[![Ollama](https://img.shields.io/badge/Ollama-LLM-blue)](#) 
+[![Qdrant](https://img.shields.io/badge/Qdrant-VectorDB-orange)](#)  
+- 🤖 Retrieval-Augmented Generation (RAG) mit Qdrant, Ollama, LangChain u. a.  
+- 🧠 LLM-Integrationen: Prompting, Agenten, Tool-Use, Model Context Protocol (MCP)  
+- 🐳 DevOps: Docker/Compose, reproducible Stacks, Monitoring  
+- 🧩 Saubere Software-Architekturen: modular, testbar, skalierbar  
 
 <details>
 <summary>🛠️ Basis & Breite (aufklappen)</summary>
 
-- Fullstack: PHP (Laravel, Symfony, Joomla), JavaScript/TypeScript (Vue, Node)  
-- Datenbanken: MySQL, MariaDB, PostgreSQL, Oracle  
-- Python: Data, ML, KI-Workflows  
-- Weitere Sprachen: C++, R, u. a.  
-- Consulting: Architektur, Skalierung, digitale Strategien  
+- 💻 Fullstack: PHP (Laravel, Symfony, Joomla), JavaScript/TypeScript (Vue, Node)  
+- 🐬 Datenbanken: MySQL, MariaDB, PostgreSQL, Oracle  
+- 🐍 Python: Data, ML, KI-Workflows  
+- ⚙️ Weitere Sprachen: C++, R, u. a.  
+- 📊 Consulting: Architektur, Skalierung, digitale Strategien  
 
 </details>
 
 <details>
 <summary>🌐 Sprachkenntnisse (aufklappen)</summary>
 
-- Deutsch: Muttersprache  
-- Englisch: fließend  
-- Bairisch: fließend 😉  
-- Italienisch & Französisch: Grundkenntnisse  
+- 🇩🇪 Deutsch: Muttersprache  
+- 🇬🇧 Englisch: fließend  
+- 🏔️ Bairisch: fließend 😉  
+- 🇮🇹 Italienisch & 🇫🇷 Französisch: Grundkenntnisse  
 
 </details>
+
+---
 
 ## 📌 Kontakt
-- Website: https://jg-webdesign.de  
-- LinkedIn: https://www.linkedin.com/in/johannes-gamperl-7b29689b/
-
-</details>
-
-![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
-![Docker](https://img.shields.io/badge/Docker-ready-blue?logo=docker)
-![LangChain](https://img.shields.io/badge/LangChain-RAG-green)
-![PHP](https://img.shields.io/badge/PHP-Backend-777BB4?logo=php)
-
+[![Website](https://img.shields.io/badge/Website-jg--webdesign.de-orange)](https://jg-webdesign.de)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/johannes-gamperl-7b29689b/)
 
 ---
 
@@ -52,4 +48,5 @@ Langjährige Erfahrung in **Fullstack-Entwicklung, Datenbanken und IT-Consulting
 I build **RAG- and LLM-systems** with a focus on **locally deployable, GDPR-compliant AI solutions**.  
 Strong background in **fullstack development, databases and consulting**, now specialized in **modern AI, DevOps and Model Context Protocol (MCP)**.
 
-Focus: RAG · LLM · MCP · Docker/DevOps · Python · PHP/JS · Databases · Consulting
+Focus: RAG · LLM · MCP · Docker/DevOps · Python · PHP/JS · Databases · Consulting  
+Languages: German (native), English (fluent), Bavarian (fluent 😉), Italian & French (basic)  
