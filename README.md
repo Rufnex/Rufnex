@@ -26,11 +26,12 @@ Langjährige Erfahrung in **Fullstack-Entwicklung, Datenbanken und IT-Consulting
 <details>
 <summary>🌐 Sprachkenntnisse (aufklappen)</summary>
 
-
-  🇩🇪 Deutsch: Muttersprache  
-- 🇬🇧 Englisch: fließend  
-- 🏔️ Bairisch: fließend 😉  
-- 🇮🇹 Italienisch & 🇫🇷 Französisch: Grundkenntnisse  
+<ul>
+  <li>🇩🇪 Deutsch: Muttersprache</li>
+  <li>🇬🇧 Englisch: fließend</li>
+  <li>🏔️ Bairisch: fließend 😉</li> 
+  <li>🇮🇹 Italienisch & 🇫🇷 Französisch: Grundkenntnisse</li>
+</ul>
 
 </details>
 
