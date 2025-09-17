@@ -1,4 +1,4 @@
-## Rufnex · KI & Fullstack Entwickler
+# Rufnex · KI & Fullstack Entwickler
 
 👋 Ich entwickle **RAG- und LLM-Systeme** mit Fokus auf **lokal betreibbare, DSGVO-konforme KI-Lösungen**.  
 Langjährige Erfahrung in **Fullstack-Entwicklung, Datenbanken und IT-Consulting**, heute kombiniert mit einer klaren Spezialisierung auf moderne KI-Architekturen.  
@@ -37,13 +37,11 @@ Langjährige Erfahrung in **Fullstack-Entwicklung, Datenbanken und IT-Consulting
 - 🌐 Website: https://jg-webdesign.de  
 - 💼 LinkedIn: https://www.linkedin.com/in/johannes-gamperl-7b29689b/  
 
-</details>
 
-<hr style="height:1px;border:none;background-color:#ddd;" />
+</details>
+---
 
 ## 🌍 Short Profile (English)
 
-I build **RAG- and LLM-systems** with a focus on **locally deployable, GDPR-compliant AI solutions**.  
-Strong background in **fullstack development, databases and consulting**, now specialized in **modern AI, DevOps and Model Context Protocol (MCP)**.  
-
-Focus: RAG · LLM · MCP · Docker/DevOps · Python · PHP/JS · Databases · Consulting  
+I design and build **AI solutions** with a focus on **RAG- and LLM-systems** that are **locally deployable and GDPR-compliant**.  
+My background combines **fullstack development, databases and consulting** with a clear specialization in **modern AI and DevOps**.  
