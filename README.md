@@ -39,6 +39,12 @@ Langjährige Erfahrung in **Fullstack-Entwicklung, Datenbanken und IT-Consulting
 
 </details>
 
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![Docker](https://img.shields.io/badge/Docker-ready-blue?logo=docker)
+![LangChain](https://img.shields.io/badge/LangChain-RAG-green)
+![PHP](https://img.shields.io/badge/PHP-Backend-777BB4?logo=php)
+
+
 ---
 
 ## 🌍 Short Profile (English)
