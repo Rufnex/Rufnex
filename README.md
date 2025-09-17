@@ -38,7 +38,7 @@ Langjährige Erfahrung in **Fullstack-Entwicklung, Datenbanken und IT-Consulting
 - 🌐 Website: https://jg-webdesign.de  
 - 💼 LinkedIn: https://www.linkedin.com/in/johannes-gamperl-7b29689b/  
 
-## 🌍 Short Profile (English)
+## 🌍 Short Profile
 
 I design and build **AI solutions** with a focus on **RAG- and LLM-systems** that are **locally deployable and GDPR-compliant**.  
 My background combines **fullstack development, databases and consulting** with a clear specialization in **modern AI and DevOps**.  
