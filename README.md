@@ -33,13 +33,11 @@ Langjährige Erfahrung in **Fullstack-Entwicklung, Datenbanken und IT-Consulting
 
 </details>
 
+</details>
+
 ## 📌 Kontakt
 - 🌐 Website: https://jg-webdesign.de  
 - 💼 LinkedIn: https://www.linkedin.com/in/johannes-gamperl-7b29689b/  
-
-
-</details>
----
 
 ## 🌍 Short Profile (English)
 
