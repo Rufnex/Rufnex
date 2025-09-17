@@ -37,6 +37,8 @@ Langjährige Erfahrung in **Fullstack-Entwicklung, Datenbanken und IT-Consulting
 - Website: https://jg-webdesign.de  
 - LinkedIn: https://www.linkedin.com/in/johannes-gamperl-7b29689b/
 
+</details>
+
 ---
 
 ## 🌍 Short Profile (English)
@@ -45,5 +47,3 @@ I build **RAG- and LLM-systems** with a focus on **locally deployable, GDPR-comp
 Strong background in **fullstack development, databases and consulting**, now specialized in **modern AI, DevOps and Model Context Protocol (MCP)**.
 
 Focus: RAG · LLM · MCP · Docker/DevOps · Python · PHP/JS · Databases · Consulting
-
-</details>
