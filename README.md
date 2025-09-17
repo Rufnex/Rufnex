@@ -3,6 +3,9 @@
 👋 Ich entwickle **RAG- und LLM-Systeme** mit Fokus auf **lokal betreibbare, DSGVO-konforme KI-Lösungen**.  
 Langjährige Erfahrung in **Fullstack-Entwicklung, Datenbanken und IT-Consulting**, heute kombiniert mit einer klaren Spezialisierung auf moderne KI-Architekturen.
 
+<details>
+<summary><strong>🔽 Profil öffnen</strong></summary>
+
 ## 🔎 Fokus: KI & moderne Systeme
 - Retrieval-Augmented Generation (RAG) mit Qdrant, Ollama, LangChain u. a.  
 - LLM-Integrationen: Prompting, Agenten, Tool-Use, Model Context Protocol (MCP)  
@@ -39,6 +42,8 @@ Langjährige Erfahrung in **Fullstack-Entwicklung, Datenbanken und IT-Consulting
 ## 🌍 Short Profile (English)
 
 I build **RAG- and LLM-systems** with a focus on **locally deployable, GDPR-compliant AI solutions**.  
-Strong background in **fullstack development, databases and consulting**, now combined with a specialization in **modern AI, DevOps and Model Context Protocol (MCP)**.
+Strong background in **fullstack development, databases and consulting**, now specialized in **modern AI, DevOps and Model Context Protocol (MCP)**.
 
-Focus: RAG · LLM · MCP · Docker/DevOps · Python · PHP/JS · Databases · Consulting  
+Focus: RAG · LLM · MCP · Docker/DevOps · Python · PHP/JS · Databases · Consulting
+
+</details>
