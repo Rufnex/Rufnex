@@ -39,7 +39,7 @@ Langjährige Erfahrung in **Fullstack-Entwicklung, Datenbanken und IT-Consulting
 
 </details>
 
----
+<hr style="height:1px;border:none;background-color:#ddd;" />
 
 ## 🌍 Short Profile (English)
 
