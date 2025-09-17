@@ -13,7 +13,7 @@ Langjährige Erfahrung in **Fullstack-Entwicklung, Datenbanken und IT-Consulting
 - 🧩 Saubere Software-Architekturen: modular, testbar, skalierbar  
 
 <details>
-<summary>🛠️ Basis & Breite (aufklappen)</summary>
+<summary>🛠️ Weitere Kompetenzen (aufklappen)</summary>
 
 - 💻 Fullstack: PHP (Laravel, Symfony, Joomla), JavaScript/TypeScript (Vue, Node)  
 - 🐬 Datenbanken: MySQL, MariaDB, PostgreSQL, Oracle  
@@ -29,7 +29,7 @@ Langjährige Erfahrung in **Fullstack-Entwicklung, Datenbanken und IT-Consulting
   - 🇩🇪 Deutsch: Muttersprache 
   - 🇬🇧 Englisch: fließend 
   - 🇮🇹 Italienisch & 🇫🇷 Französisch: Grundkenntnisse
-  - 
+ 
 </details>
 
 </details>
