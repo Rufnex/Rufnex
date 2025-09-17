@@ -40,5 +40,4 @@ Langjährige Erfahrung in **Fullstack-Entwicklung, Datenbanken und IT-Consulting
 
 ## 🌍 Short Profile
 
-I design and build **AI solutions** with a focus on **RAG- and LLM-systems** that are **locally deployable and GDPR-compliant**.  
-My background combines **fullstack development, databases and consulting** with a clear specialization in **modern AI and DevOps**.  
+I design and build **AI solutions** with a focus on **RAG- and LLM-systems** that are **locally deployable and GDPR-compliant**. My background combines **fullstack development, databases and consulting** with a clear specialization in **modern AI and DevOps**.  
