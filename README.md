@@ -1,9 +1,10 @@
-# Rufnex · KI-Entwickler & Fullstack-Profi
+# Rufnex · KI-Entwickler & Fullstack-Profi  
 
 👋 Ich entwickle **RAG- und LLM-Systeme** mit Fokus auf **lokal betreibbare, DSGVO-konforme KI-Lösungen**.  
-Langjährige Erfahrung in **Fullstack-Entwicklung, Datenbanken und IT-Consulting**, heute kombiniert mit einer klaren Spezialisierung auf moderne KI-Architekturen.
+Langjährige Erfahrung in **Fullstack-Entwicklung, Datenbanken und IT-Consulting**, heute kombiniert mit einer klaren Spezialisierung auf moderne KI-Architekturen.  
 
----
+<details>
+<summary><strong>🔽 Profil öffnen</strong></summary>
 
 ## 🔎 Fokus: KI & moderne Systeme
 - 🤖 Retrieval-Augmented Generation (RAG) mit Qdrant, Ollama, LangChain u. a.  
@@ -32,18 +33,19 @@ Langjährige Erfahrung in **Fullstack-Entwicklung, Datenbanken und IT-Consulting
 
 </details>
 
----
-
 ## 📌 Kontakt
 - 🌐 Website: https://jg-webdesign.de  
-- 💼 LinkedIn: https://www.linkedin.com/in/johannes-gamperl-7b29689b/
+- 💼 LinkedIn: https://www.linkedin.com/in/johannes-gamperl-7b29689b/  
 
----
+</details>
 
-## 🌍 Short Profile (English)
+<details>
+<summary><strong>🌍 Short Profile (English) (aufklappen)</strong></summary>
 
 I build **RAG- and LLM-systems** with a focus on **locally deployable, GDPR-compliant AI solutions**.  
-Strong background in **fullstack development, databases and consulting**, now specialized in **modern AI, DevOps and Model Context Protocol (MCP)**.
+Strong background in **fullstack development, databases and consulting**, now specialized in **modern AI, DevOps and Model Context Protocol (MCP)**.  
 
 Focus: RAG · LLM · MCP · Docker/DevOps · Python · PHP/JS · Databases · Consulting  
-Languages: German (native), English (fluent), Bavarian (fluent 😉), Italian & French (basic)  
+Languages: 🇩🇪 German (native), 🇬🇧 English (fluent), 🏔️ Bavarian (fluent 😉), 🇮🇹 Italian & 🇫🇷 French (basic)  
+
+</details>
