@@ -6,9 +6,6 @@ Langjährige Erfahrung in **Fullstack-Entwicklung, Datenbanken und IT-Consulting
 ---
 
 ## 🔎 Fokus: KI & moderne Systeme
-[![LangChain](https://img.shields.io/badge/LangChain-RAG-green)](#) 
-[![Ollama](https://img.shields.io/badge/Ollama-LLM-blue)](#) 
-[![Qdrant](https://img.shields.io/badge/Qdrant-VectorDB-orange)](#)  
 - 🤖 Retrieval-Augmented Generation (RAG) mit Qdrant, Ollama, LangChain u. a.  
 - 🧠 LLM-Integrationen: Prompting, Agenten, Tool-Use, Model Context Protocol (MCP)  
 - 🐳 DevOps: Docker/Compose, reproducible Stacks, Monitoring  
@@ -38,8 +35,8 @@ Langjährige Erfahrung in **Fullstack-Entwicklung, Datenbanken und IT-Consulting
 ---
 
 ## 📌 Kontakt
-[![Website](https://img.shields.io/badge/Website-jg--webdesign.de-orange)](https://jg-webdesign.de)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/johannes-gamperl-7b29689b/)
+- 🌐 Website: https://jg-webdesign.de  
+- 💼 LinkedIn: https://www.linkedin.com/in/johannes-gamperl-7b29689b/
 
 ---
 
