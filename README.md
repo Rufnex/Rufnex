@@ -9,18 +9,26 @@ Langjährige Erfahrung in **Fullstack-Entwicklung, Datenbanken und IT-Consulting
 - DevOps: Docker/Compose, reproducible Stacks, Monitoring  
 - Saubere Software-Architekturen: modular, testbar, skalierbar  
 
-## 🛠️ Basis & Breite
+<details>
+<summary>🛠️ Basis & Breite (aufklappen)</summary>
+
 - Fullstack: PHP (Laravel, Symfony, Joomla), JavaScript/TypeScript (Vue, Node)  
 - Datenbanken: MySQL, MariaDB, PostgreSQL, Oracle  
 - Python: Data, ML, KI-Workflows  
 - Weitere Sprachen: C++, R, u. a.  
 - Consulting: Architektur, Skalierung, digitale Strategien  
 
-## 🌐 Sprachkenntnisse
+</details>
+
+<details>
+<summary>🌐 Sprachkenntnisse (aufklappen)</summary>
+
 - Deutsch: Muttersprache  
 - Englisch: fließend  
 - Bairisch: fließend 😉  
 - Italienisch & Französisch: Grundkenntnisse  
+
+</details>
 
 ## 📌 Kontakt
 - Website: https://jg-webdesign.de  
@@ -34,4 +42,13 @@ I build **RAG- and LLM-systems** with a focus on **locally deployable, GDPR-comp
 Strong background in **fullstack development, databases and consulting**, now combined with a specialization in **modern AI, DevOps and Model Context Protocol (MCP)**.
 
 Focus: RAG · LLM · MCP · Docker/DevOps · Python · PHP/JS · Databases · Consulting  
-Languages: German (native), English (fluent), Bavarian (fluent 😉), Italian & French (basic)  
+
+<details>
+<summary>🌐 Languages (expand)</summary>
+
+- German (native)  
+- English (fluent)  
+- Bavarian (fluent 😉)  
+- Italian & French (basic)  
+
+</details>
