@@ -1,4 +1,4 @@
-# Rufnex · KI & Fullstack Entwickler
+## Rufnex · KI & Fullstack Entwickler
 
 👋 Ich entwickle **RAG- und LLM-Systeme** mit Fokus auf **lokal betreibbare, DSGVO-konforme KI-Lösungen**.  
 Langjährige Erfahrung in **Fullstack-Entwicklung, Datenbanken und IT-Consulting**, heute kombiniert mit einer klaren Spezialisierung auf moderne KI-Architekturen.  
