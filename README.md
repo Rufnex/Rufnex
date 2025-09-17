@@ -42,13 +42,3 @@ I build **RAG- and LLM-systems** with a focus on **locally deployable, GDPR-comp
 Strong background in **fullstack development, databases and consulting**, now combined with a specialization in **modern AI, DevOps and Model Context Protocol (MCP)**.
 
 Focus: RAG · LLM · MCP · Docker/DevOps · Python · PHP/JS · Databases · Consulting  
-
-<details>
-<summary>🌐 Languages (expand)</summary>
-
-- German (native)  
-- English (fluent)  
-- Bavarian (fluent 😉)  
-- Italian & French (basic)  
-
-</details>
